@@ -4,10 +4,9 @@ Undergraduate student at UIUC
 Major in Mathematics, Statistics, and Economics
 
 🔍 Interests:
-- Statistical modeling
+- End-to-end machine learning
 - Bayesian analysis
-- Time series analysis
 
 🛠 Tools:
-- R, Python, Java
+- Python, R
 - LaTeX
