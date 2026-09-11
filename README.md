@@ -1,12 +1,2 @@
-Hi, I'm Molin 👋
-
-Undergraduate student at UIUC  
-Major in Mathematics, Statistics, and Economics
-
-🔍 Interests:
-- End-to-end machine learning
-- Bayesian analysis
-
-🛠 Tools:
-- Python, R
-- LaTeX
+Molin Yang
+Master's in Statistical Science (MSS) student @ Duke University
